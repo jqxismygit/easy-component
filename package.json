@@ -1,13 +1,13 @@
 {
-  "name": "@alitajs/antd-plus",
-  "version": "1.2.0",
+  "name": "easy component",
+  "version": "0.0.1",
   "license": "MIT",
-  "description": "基于ant-design封装的偏业务组件",
+  "description": "基于ant-design的组件库",
   "keywords": [
     "react",
     "ant-design",
     "components",
-    "ant-design-plus"
+    "easy component"
   ],
   "files": [
     "es",
@@ -17,13 +17,13 @@
   "unpkg": "lib/index.js",
   "module": "es/index.js",
   "types": "lib/index.d.ts",
-  "homepage": "https://github.com/alitajs/ant-design-plus",
+  "homepage": "https://github.com/jqxismygit/easy-component",
   "bugs": {
-    "url": "https://github.com/alitajs/ant-design-plus/issues"
+    "url": "https://github.com/jqxismygit/easy-component/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alitajs/ant-design-plus"
+    "url": "https://github.com/jqxismygit/easy-component"
   },
   "scripts": {
     "bootstrap": "yarn || npm i",
