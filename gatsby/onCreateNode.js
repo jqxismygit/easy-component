@@ -5,7 +5,7 @@ const himalaya = require('himalaya');
 
 // 获取用户的头像列表
 const getAvatarList = async filename => {
-  const sourcePath = 'https://github.com/alitajs/ant-design-plus/contributors/master';
+  const sourcePath = 'https://github.com/jqxismygit/easy-component';
   const url = `${sourcePath}${filename}/list`;
   const html = await fetch(url).then(res => res.text());
   const ast = himalaya.parse(html)[0].children || [];

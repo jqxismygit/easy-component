@@ -15,7 +15,7 @@
 
 兼容性
 
-`antd-plus` 由于依赖了 React@16.8.0+ 提供的 Hooks 特性，因此只支持 React 16.8.0 及以上版本。
+`easy component` 由于依赖了 React@16.8.0+ 提供的 Hooks 特性，因此只支持 React 16.8.0 及以上版本。
 
 ## 📦 安装
 
@@ -31,7 +31,7 @@ yarn add easy-component
 
 ```bash
 # 克隆项目到本地
-git clone git@github.com:ant-design/ant-design.git
+git clone git@github.com:jqxismygit/easy-component.git
 
 # 安装依赖
 yarn bootstarp
