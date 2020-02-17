@@ -213,8 +213,8 @@ class Demo extends React.Component<IProps, IState> {
             <a href={`#${id}`}>{localizedTitle}</a>
             <EditButton
               title="在github上编辑此页！"
-              filename={meta.path.replace('components/', 'packages/antd-plus/src/')}
-              sourcePath="https://github.com/alitajs/ant-design-plus/edit/master"
+              filename={meta.path.replace('components/', 'packages/easy-component/src/')}
+              sourcePath="https://github.com/jqxismygit/easy-component/master"
             />
           </div>
           <div
