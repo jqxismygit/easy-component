@@ -2,7 +2,7 @@
 <h1 align="center">easy component</h1>
 
 <div align="center">
-基于 ant-design 封装的偏业务组件集合
+基于 ant-design 封装的组件库
 
 </div>
 
