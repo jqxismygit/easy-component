@@ -16,7 +16,7 @@ const Home: React.FC = () => {
           <Link to="/docs/getting-started">
             <Button type="primary">文档</Button>
           </Link>
-          <Link to="/components/send-button">
+          <Link to="/components/button">
             <Button style={{ margin: '0 16px' }} type="primary" ghost>
               组件
             </Button>
