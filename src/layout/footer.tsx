@@ -8,11 +8,10 @@ const FooterView: React.FC = () => {
   return (
     <Footer className={styles.footer}>
       <div className={styles.copyright}>
-        Copyright <Icon type="copyright" /> 2019 Alita 团队出品
+        Copyright <Icon type="copyright" /> king(117745900@qq.com)
       </div>
-
     </Footer>
-  )
+  );
 };
 
 export default FooterView;
