@@ -72,7 +72,7 @@
     "less": "^3.9.0",
     "lint-staged": "^9.2.0",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "numeral": "^2.0.6",
